@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Ph.D. in the College of Computer Science and Technology at Jilin University (2023–present), supervised by Professor [Pingping Liu](http://ccst.jlu.edu.cn/info/1367/20528.htm). Previously, I obtained an M.S. from Tianjin Polytechnic University (2018–2021) under Professor [Yuelong Li](https://ai.tiangong.edu.cn/2024/0515/c5230a94772/page.htm) and served as an Algorithm Engineer at Zhejiang Uniview Technologies Co., Ltd. (2021–2023).  
+I am currently pursuing a Ph.D. in the College of Computer Science and Technology at Jilin University (09/2023–present), supervised by Professor [Pingping Liu](http://ccst.jlu.edu.cn/info/1367/20528.htm). Previously, I obtained an M.S. from Tianjin Polytechnic University (09/2018–03/2021) under Professor [Yuelong Li](https://ai.tiangong.edu.cn/2024/0515/c5230a94772/page.htm) and served as an Algorithm Engineer at Zhejiang Uniview Technologies Co., Ltd. (04/2021–06/2023).  
  
 My primary research focuses on **Low-Level Vision**, particularly **Low-Light Image Enhancement (LLIE)** (essential for robustness in real-world vision systems). I also actively investigate related areas including **Other Image Enhancement Tasks**, **Domain Generalization**, **Contrastive Learning**, and **Metric Learning**.  
  
@@ -16,8 +16,11 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *07/2025*: &nbsp;🎉🎉 One paper about LLIE (Causal Wavelet) accepted to ICCV 2025.
+- *06/2025*: &nbsp;🎉🎉 One paper about LLIE (Multi-modal Fusion) accepted to ESWA.
+- *05/2025*: &nbsp;🎉🎉 One paper about LLIE (Retinex) accepted to INFFUS.
+- *03/2025*: &nbsp;🎉🎉 One paper about LLIE (Fourier & Reinforcement Learning) accepted to ICME 2025 (Oral).
+- *07/2024*: &nbsp;🎉🎉 One paper about LLIE (Fourier) accepted to ACM MM 2024 (Oral). 
 
 # 📝 Publications 
 
