@@ -22,9 +22,9 @@ For collaborations or inquiries, please feel free to contact me via email.
 - *03/2025*: &nbsp;🎉🎉 One paper about LLIE (Fourier & Reinforcement Learning) accepted to ICME 2025 (Oral).
 - *07/2024*: &nbsp;🎉🎉 One paper about LLIE (Fourier) accepted to ACM MM 2024 (Oral). 
 
-# 📝 Publications 
+# 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
