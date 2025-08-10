@@ -25,7 +25,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 # 📝 Selected Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/SPJFNet.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/SPJFNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SPJFNet: Self-Mining Prior-Guided Joint Frequency Enhancement for Ultra-Efficient Dark Image Restoration](https://arxiv.org/abs/2508.04041)
@@ -35,7 +35,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/CIVQLLIE.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/CIVQLLIE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CIVQLLIE: Causal Intervention with Vector Quantization for Low-Light Image Enhancement](https://arxiv.org/abs/2508.03338)
@@ -45,7 +45,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/PatchSS2D.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/PatchSS2D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Beyond Illumination: Fine-Grained Detail Preservation in Extreme Dark Image Restoration](https://arxiv.org/abs/2508.03336)
@@ -55,7 +55,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/BSMamba.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/BSMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BSMamba: Brightness and Semantic Modeling for Long-Range Interaction in Low-Light Image Enhancement](https://arxiv.org/abs/2506.18346)
@@ -65,7 +65,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/CWNet.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/CWNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CWNet: Causal Wavelet Network for Low-Light Image Enhancement](https://arxiv.org/abs/2507.10689)
