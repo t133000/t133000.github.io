@@ -30,7 +30,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 [SPJFNet: Self-Mining Prior-Guided Joint Frequency Enhancement for Ultra-Efficient Dark Image Restoration](https://arxiv.org/abs/2508.04041)
 
-**Tongshun Zhang**, Pingping Liu, Zijian Zhang, Qiuzhan Zhou
+**Tongshun Zhang**, Pingping Liu*, Zijian Zhang, Qiuzhan Zhou
 
 </div>
 </div>
@@ -40,7 +40,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 [CIVQLLIE: Causal Intervention with Vector Quantization for Low-Light Image Enhancement](https://arxiv.org/abs/2508.03338)
 
-**Tongshun Zhang**, Pingping Liu, Zhe Zhang, Qiuzhan Zhou
+**Tongshun Zhang**, Pingping Liu*, Zhe Zhang, Qiuzhan Zhou
 
 </div>
 </div>
@@ -50,7 +50,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 [Beyond Illumination: Fine-Grained Detail Preservation in Extreme Dark Image Restoration](https://arxiv.org/abs/2508.03336)
 
-**Tongshun Zhang**, Pingping Liu, Zixuan Zhong, Zijian Zhang, Qiuzhan Zhou
+**Tongshun Zhang**, Pingping Liu*, Zixuan Zhong, Zijian Zhang, Qiuzhan Zhou
 
 </div>
 </div>
@@ -60,7 +60,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 [BSMamba: Brightness and Semantic Modeling for Long-Range Interaction in Low-Light Image Enhancement](https://arxiv.org/abs/2506.18346)
 
-**Tongshun Zhang**, Pingping Liu, Mengen Cai, Zijian Zhang, Yubing Lu, Qiuzhan Zhou
+**Tongshun Zhang**, Pingping Liu*, Mengen Cai, Zijian Zhang, Yubing Lu, Qiuzhan Zhou
 
 </div>
 </div>
@@ -70,7 +70,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 [CWNet: Causal Wavelet Network for Low-Light Image Enhancement](https://arxiv.org/abs/2507.10689)
 
-**Tongshun Zhang**, Pingping Liu, CWNet: Causal Wavelet Network for Low-Light Image Enhancement
+**Tongshun Zhang**, Pingping Liu*, CWNet: Causal Wavelet Network for Low-Light Image Enhancement
 
 </div>
 </div>
@@ -80,7 +80,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 [DMFourLLIE: Dual-Stage and Multi-Branch Fourier Network for Low-Light Image Enhancement](https://arxiv.org/abs/2412.00683)
 
-**Tongshun Zhang**, Pingping Liu, Ming Zhao, Haotian Lv
+**Tongshun Zhang**, Pingping Liu*, Ming Zhao, Haotian Lv
 
 </div>
 </div>
