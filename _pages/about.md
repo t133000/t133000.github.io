@@ -70,7 +70,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 [CWNet: Causal Wavelet Network for Low-Light Image Enhancement](https://arxiv.org/abs/2507.10689)
 
-**Tongshun Zhang**, Pingping Liu*, CWNet: Causal Wavelet Network for Low-Light Image Enhancement
+**Tongshun Zhang**, Pingping Liu*, Yubing Lu, Mengen Cai, Zijian Zhang, Zhe Zhang, Qiuzhan Zhou
 
 </div>
 </div>
