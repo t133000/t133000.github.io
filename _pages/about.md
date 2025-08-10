@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Ph.D. in the College of Computer Science and Technology at Jilin University (09/2023–present), supervised by Professor [Pingping Liu](http://ccst.jlu.edu.cn/info/1367/20528.htm). Previously, I obtained an M.S. from Tiangong University (09/2018–03/2021) under Professor [Yuelong Li](https://ai.tiangong.edu.cn/2024/0515/c5230a94772/page.htm) and served as an Algorithm Engineer at Zhejiang Uniview Technologies Co., Ltd. (04/2021–06/2023).  
+I am currently pursuing a Ph.D. in the College of Computer Science and Technology at Jilin University (09/2023–present), supervised by Professor [Pingping Liu](http://ccst.jlu.edu.cn/info/1367/20528.htm). Previously, I obtained my M.S. degree from Tiangong University (09/2018–03/2021) under Professor [Yuelong Li](https://ai.tiangong.edu.cn/2024/0515/c5230a94772/page.htm) and served as an Algorithm Engineer at Zhejiang Uniview Technologies Co., Ltd. (04/2021–06/2023).  
  
 My primary research focuses on **Low-Level Vision**, particularly **Low-Light Image Enhancement (LLIE)** (essential for robustness in real-world vision systems). I also actively investigate related areas including **Other Image Enhancement Tasks**, **Domain Generalization**, **Contrastive Learning**, and **Metric Learning**.  
  
