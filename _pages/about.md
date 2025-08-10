@@ -24,19 +24,69 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/SPJFNet.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[SPJFNet: Self-Mining Prior-Guided Joint Frequency Enhancement for Ultra-Efficient Dark Image Restoration](https://arxiv.org/abs/2508.04041)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Tongshun Zhang**, Pingping Liu, Zijian Zhang, Qiuzhan Zhou
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/CIVQLLIE.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CIVQLLIE: Causal Intervention with Vector Quantization for Low-Light Image Enhancement](https://arxiv.org/abs/2508.03338)
+
+**Tongshun Zhang**, Pingping Liu, Zhe Zhang, Qiuzhan Zhou
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/PatchSS2D.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Illumination: Fine-Grained Detail Preservation in Extreme Dark Image Restoration](https://arxiv.org/abs/2508.03336)
+
+**Tongshun Zhang**, Pingping Liu, Zixuan Zhong, Zijian Zhang, Qiuzhan Zhou
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/BSMamba.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BSMamba: Brightness and Semantic Modeling for Long-Range Interaction in Low-Light Image Enhancement](https://arxiv.org/abs/2506.18346)
+
+**Tongshun Zhang**, Pingping Liu, Mengen Cai, Zijian Zhang, Yubing Lu, Qiuzhan Zhou
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/CWNet.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CWNet: Causal Wavelet Network for Low-Light Image Enhancement](https://arxiv.org/abs/2507.10689)
+
+**Tongshun Zhang**, Pingping Liu, CWNet: Causal Wavelet Network for Low-Light Image Enhancement
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/DMFourLLIE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DMFourLLIE: Dual-Stage and Multi-Branch Fourier Network for Low-Light Image Enhancement](https://arxiv.org/abs/2412.00683)
+
+**Tongshun Zhang**, Pingping Liu, Ming Zhao, Haotian Lv
+
+</div>
+</div>
+
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
