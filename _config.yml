@@ -7,7 +7,6 @@
 
 # Site Settings
 title                    : "Tongshun Zhang (张同顺)"
-description              : "Ph.D. candidate"
 description              : "tszhang23@mails.jlu.edu.cn"
 repository               : "https://bywlzts.github.io/"
 google_scholar_stats_use_cdn : true
@@ -24,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tongshun Zhang"
   avatar           : "images/MyPhoto.png"
-  bio              : "College of Computer Science and Technology, Jilin University"
+  bio              : "Ph.D. candidate, College of Computer Science and Technology, Jilin University"
   location         : "Changchun, China"
   employer         :
   pubmed           : 
