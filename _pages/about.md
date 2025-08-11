@@ -30,7 +30,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/SPJFNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SPJFNet: Self-Mining Prior-Guided Joint Frequency Enhancement for Ultra-Efficient Dark Image Restoration](https://arxiv.org/abs/2508.04041)
+SPJFNet: Self-Mining Prior-Guided Joint Frequency Enhancement for Ultra-Efficient Dark Image Restoration [[PDF]](https://arxiv.org/abs/2508.04041) [[Code]](https://github.com/bywlzts/SPJFNet)
 
 **Tongshun Zhang**, Pingping Liu*, Zijian Zhang, Qiuzhan Zhou
 
@@ -40,7 +40,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/CIVQLLIE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CIVQLLIE: Causal Intervention with Vector Quantization for Low-Light Image Enhancement](https://arxiv.org/abs/2508.03338)
+CIVQLLIE: Causal Intervention with Vector Quantization for Low-Light Image Enhancement [[PDF]](https://arxiv.org/abs/2508.03338) [[Code]](https://github.com/bywlzts/CIVQLLIE)
 
 **Tongshun Zhang**, Pingping Liu*, Zhe Zhang, Qiuzhan Zhou
 
@@ -50,7 +50,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/PatchSS2D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Beyond Illumination: Fine-Grained Detail Preservation in Extreme Dark Image Restoration](https://arxiv.org/abs/2508.03336)
+Beyond Illumination: Fine-Grained Detail Preservation in Extreme Dark Image Restoration [[PDF]](https://arxiv.org/abs/2508.03336) [[Code]](https://github.com/bywlzts/RFGM)
 
 **Tongshun Zhang**, Pingping Liu*, Zixuan Zhong, Zijian Zhang, Qiuzhan Zhou
 
@@ -60,7 +60,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/BSMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BSMamba: Brightness and Semantic Modeling for Long-Range Interaction in Low-Light Image Enhancement](https://arxiv.org/abs/2506.18346)
+BSMamba: Brightness and Semantic Modeling for Long-Range Interaction in Low-Light Image Enhancement [[PDF]](https://arxiv.org/abs/2506.18346) [[Code]](https://github.com/bywlzts/BSMamba)
 
 **Tongshun Zhang**, Pingping Liu*, Mengen Cai, Zijian Zhang, Yubing Lu, Qiuzhan Zhou
 
@@ -70,7 +70,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/CWNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CWNet: Causal Wavelet Network for Low-Light Image Enhancement](https://arxiv.org/abs/2507.10689)
+CWNet: Causal Wavelet Network for Low-Light Image Enhancement [[PDF]](https://arxiv.org/abs/2507.10689) [[Code]](https://github.com/bywlzts/CWNet-Causal-Wavelet-Network)
 
 **Tongshun Zhang**, Pingping Liu*, Yubing Lu, Mengen Cai, Zijian Zhang, Zhe Zhang, Qiuzhan Zhou
 
@@ -80,7 +80,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/DMFourLLIE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DMFourLLIE: Dual-Stage and Multi-Branch Fourier Network for Low-Light Image Enhancement](https://arxiv.org/abs/2412.00683)
+DMFourLLIE: Dual-Stage and Multi-Branch Fourier Network for Low-Light Image Enhancement [[PDF]](https://arxiv.org/abs/2412.00683) [[Code]](https://github.com/bywlzts/DMFourLLIE)
 
 **Tongshun Zhang**, Pingping Liu*, Ming Zhao, Haotian Lv
 
