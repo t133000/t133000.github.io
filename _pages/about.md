@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# <h2 id="about-me">🎓 About Me</h2>
+# 🎓 About Me
 
 I am currently pursuing a Ph.D. in the College of Computer Science and Technology at Jilin University (09/2023–present), supervised by Professor [Pingping Liu](http://ccst.jlu.edu.cn/info/1367/20528.htm). Previously, I obtained my M.S. degree from Tiangong University (09/2018–03/2021) under Professor [Yuelong Li](https://ai.tiangong.edu.cn/2024/0515/c5230a94772/page.htm) and served as an Algorithm Engineer at Uniview Technologies. (04/2021–06/2023).  
  
