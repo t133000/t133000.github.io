@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+# 🎓 About Me
+
 I am currently pursuing a Ph.D. in the College of Computer Science and Technology at Jilin University (09/2023–present), supervised by Professor [Pingping Liu](http://ccst.jlu.edu.cn/info/1367/20528.htm). Previously, I obtained my M.S. degree from Tiangong University (09/2018–03/2021) under Professor [Yuelong Li](https://ai.tiangong.edu.cn/2024/0515/c5230a94772/page.htm) and served as an Algorithm Engineer at Uniview Technologies Co., Ltd. (04/2021–06/2023).  
  
 My primary research focuses on **Low-Level Vision**, particularly **Low-Light Image Enhancement (LLIE)** (essential for robustness in real-world vision systems). I also actively investigate related areas including **Other Image Enhancement Tasks**, **Domain Generalization**, **Contrastive Learning**, and **Metric Learning**.  
@@ -15,14 +17,14 @@ My primary research focuses on **Low-Level Vision**, particularly **Low-Light Im
 For collaborations or inquiries, please feel free to contact me via email.
 
 
-# 🔥 News
+# 🚀 News
 - *07/2025*: &nbsp;🎉🎉 One paper about LLIE (Causal Wavelet) accepted to ICCV 2025.
 - *06/2025*: &nbsp;🎉🎉 One paper about LLIE (Multi-modal Fusion) accepted to ESWA.
 - *05/2025*: &nbsp;🎉🎉 One paper about LLIE (Retinex) accepted to INFFUS.
 - *03/2025*: &nbsp;🎉🎉 One paper about LLIE (Fourier & Reinforcement Learning) accepted to ICME 2025 (Oral).
 - *07/2024*: &nbsp;🎉🎉 One paper about LLIE (Fourier) accepted to ACM MM 2024 (Oral). 
 
-# 📝 Selected Publications
+# <h2 id="-publications">📚 Selected Publications</h2>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/SPJFNet.png' alt="sym" width="100%"></div></div>
