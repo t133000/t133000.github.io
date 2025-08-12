@@ -87,5 +87,49 @@ DMFourLLIE: Dual-Stage and Multi-Branch Fourier Network for Low-Light Image Enha
 </div>
 </div>
 
+</div>
+</div>
+
+Cross-modal guided and refinement-enhanced Retinex network for robust low-light image enhancement (Information Fusion IF=18.6), 2025 [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525004531) [[Code]](https://github.com/bywlzts/CMRetinexNet)
+
+**Tongshun Zhang**, Pingping Liu*, Mengen Cai, Xiaoyi Wang, Haotian Lv
+
+</div>
+</div>
+
+</div>
+</div>
+
+Cross-modal guided and refinement-enhanced Retinex network for robust low-light image enhancement (ICME Oral), 2025 [[PDF]](https://arxiv.org/abs/2506.22216)
+
+Ming Zhao, Pingping Liu*, **Tongshun Zhang**, Zhe Zhang
+
+</div>
+</div>
+
+</div>
+</div>
+
+Multi-modal fusion guided retinex-based low-light image enhancement (Expert Systems with Applications IF=8.5), 2025 [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0957417425022729)
+
+Pingping Liu*, Xiaoyi Wang, **Tongshun Zhang**, Liyuan Yin
+
+</div>
+</div>
 
 
+# 🤝 Reviewer
+- AAAI Conference on Artificial Intelligence (AAAI)
+- ACM International Conference on Multimedia (ACM MM)
+- IEEE Transactions on Multimedia (TMM)
+
+# 🩺 Patents
+- 无监督曝光矫正的曝光偏差增强网络模型构建方法、系统 （CN 120318103 B）2025 刘萍萍;尹莉媛;**张同顺**;王晓艺;周求湛
+- 一种低光图像增强方法、系统、设备以及存储介质 （CN 119090751 B）2025 刘萍萍;李天奇;周求湛;**张同顺**;卢禹冰
+- 一种低光图像增强方法及系统 （CN 119379551 B）2025 刘萍萍;**张同顺**;蔡蒙恩;张哲;王晓艺;周求湛
+
+# 🏆 Awards & Achievements
+- [04/2025] DMFourLLIE was selected for poster presentation at Valse 2025. [Link](https://valser.org/2025/#/poster)
+- [11/2024] DMFourLLIE was selected for the "Academic Research and Discussion (研学论道)" report at Jilin University.
+- [10/2024] Graduate Outstanding Scholarship (研究生优秀奖学金) [Link](http://ccst.jlu.edu.cn/info/1229/19909.htm)
+- [10/2024] Outstanding Graduate Students (优秀研究生) [Link](http://ccst.jlu.edu.cn/info/1229/19909.htm)
