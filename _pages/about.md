@@ -93,7 +93,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 ---
 
-*Cross-modal guided and refinement-enhanced Retinex network for robust low-light image enhancement (ICME Oral), 2025* [[PDF]](https://arxiv.org/abs/2506.22216)
+*ReF-LLE: Personalized Low-Light Enhancement via Reference-Guided Deep Reinforcement Learning (ICME Oral), 2025* [[PDF]](https://arxiv.org/abs/2506.22216)
 
 Ming Zhao, Pingping Liu*, **Tongshun Zhang**, Zhe Zhang
 
