@@ -87,17 +87,28 @@ For collaborations or inquiries, please feel free to contact me via email.
 </div>
 </div>
 
+<div>
+
 *Cross-modal guided and refinement-enhanced Retinex network for robust low-light image enhancement (Information Fusion IF=18.6), 2025* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525004531) [[Code]](https://github.com/bywlzts/CMRetinexNet)
 
 **Tongshun Zhang**, Pingping Liu*, Mengen Cai, Xiaoyi Wang, Haotian Lv
 
+</div>
+
+
+<div>
+  
 *Cross-modal guided and refinement-enhanced Retinex network for robust low-light image enhancement (ICME Oral), 2025* [[PDF]](https://arxiv.org/abs/2506.22216)
 
 Ming Zhao, Pingping Liu*, **Tongshun Zhang**, Zhe Zhang
+</div>
+
+</div>
 
 *Multi-modal fusion guided retinex-based low-light image enhancement (Expert Systems with Applications IF=8.5), 2025* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0957417425022729)
 
 Pingping Liu*, Xiaoyi Wang, **Tongshun Zhang**, Liyuan Yin
+</div>
 
 
 
