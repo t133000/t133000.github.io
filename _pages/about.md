@@ -30,7 +30,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/SPJFNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SPJFNet: Self-Mining Prior-Guided Joint Frequency Enhancement for Ultra-Efficient Dark Image Restoration [[PDF]](https://arxiv.org/abs/2508.04041) [[Code]](https://github.com/bywlzts/SPJFNet)
+*SPJFNet: Self-Mining Prior-Guided Joint Frequency Enhancement for Ultra-Efficient Dark Image Restoration* [[PDF]](https://arxiv.org/abs/2508.04041) [[Code]](https://github.com/bywlzts/SPJFNet)
 
 **Tongshun Zhang**, Pingping Liu*, Zijian Zhang, Qiuzhan Zhou
 
@@ -40,7 +40,7 @@ SPJFNet: Self-Mining Prior-Guided Joint Frequency Enhancement for Ultra-Efficien
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/CIVQLLIE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-CIVQLLIE: Causal Intervention with Vector Quantization for Low-Light Image Enhancement [[PDF]](https://arxiv.org/abs/2508.03338) [[Code]](https://github.com/bywlzts/CIVQLLIE)
+*CIVQLLIE: Causal Intervention with Vector Quantization for Low-Light Image Enhancement* [[PDF]](https://arxiv.org/abs/2508.03338) [[Code]](https://github.com/bywlzts/CIVQLLIE)
 
 **Tongshun Zhang**, Pingping Liu*, Zhe Zhang, Qiuzhan Zhou
 
@@ -50,7 +50,7 @@ CIVQLLIE: Causal Intervention with Vector Quantization for Low-Light Image Enhan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/PatchSS2D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Beyond Illumination: Fine-Grained Detail Preservation in Extreme Dark Image Restoration [[PDF]](https://arxiv.org/abs/2508.03336) [[Code]](https://github.com/bywlzts/RFGM)
+*Beyond Illumination: Fine-Grained Detail Preservation in Extreme Dark Image Restoration* [[PDF]](https://arxiv.org/abs/2508.03336) [[Code]](https://github.com/bywlzts/RFGM)
 
 **Tongshun Zhang**, Pingping Liu*, Zixuan Zhong, Zijian Zhang, Qiuzhan Zhou
 
@@ -60,7 +60,7 @@ Beyond Illumination: Fine-Grained Detail Preservation in Extreme Dark Image Rest
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/BSMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-BSMamba: Brightness and Semantic Modeling for Long-Range Interaction in Low-Light Image Enhancement [[PDF]](https://arxiv.org/abs/2506.18346) [[Code]](https://github.com/bywlzts/BSMamba)
+*BSMamba: Brightness and Semantic Modeling for Long-Range Interaction in Low-Light Image Enhancement* [[PDF]](https://arxiv.org/abs/2506.18346) [[Code]](https://github.com/bywlzts/BSMamba)
 
 **Tongshun Zhang**, Pingping Liu*, Mengen Cai, Zijian Zhang, Yubing Lu, Qiuzhan Zhou
 
@@ -70,7 +70,7 @@ BSMamba: Brightness and Semantic Modeling for Long-Range Interaction in Low-Ligh
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/CWNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-CWNet: Causal Wavelet Network for Low-Light Image Enhancement [[PDF]](https://arxiv.org/abs/2507.10689) [[Code]](https://github.com/bywlzts/CWNet-Causal-Wavelet-Network)
+*CWNet: Causal Wavelet Network for Low-Light Image Enhancement* [[PDF]](https://arxiv.org/abs/2507.10689) [[Code]](https://github.com/bywlzts/CWNet-Causal-Wavelet-Network)
 
 **Tongshun Zhang**, Pingping Liu*, Yubing Lu, Mengen Cai, Zijian Zhang, Zhe Zhang, Qiuzhan Zhou
 
@@ -80,42 +80,25 @@ CWNet: Causal Wavelet Network for Low-Light Image Enhancement [[PDF]](https://ar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/DMFourLLIE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-DMFourLLIE: Dual-Stage and Multi-Branch Fourier Network for Low-Light Image Enhancement [[PDF]](https://arxiv.org/abs/2412.00683) [[Code]](https://github.com/bywlzts/DMFourLLIE)
+*DMFourLLIE: Dual-Stage and Multi-Branch Fourier Network for Low-Light Image Enhancement* [[PDF]](https://arxiv.org/abs/2412.00683) [[Code]](https://github.com/bywlzts/DMFourLLIE)
 
 **Tongshun Zhang**, Pingping Liu*, Ming Zhao, Haotian Lv
 
 </div>
 </div>
 
-</div>
-</div>
-
-Cross-modal guided and refinement-enhanced Retinex network for robust low-light image enhancement (Information Fusion IF=18.6), 2025 [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525004531) [[Code]](https://github.com/bywlzts/CMRetinexNet)
+*Cross-modal guided and refinement-enhanced Retinex network for robust low-light image enhancement (Information Fusion IF=18.6), 2025* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S1566253525004531) [[Code]](https://github.com/bywlzts/CMRetinexNet)
 
 **Tongshun Zhang**, Pingping Liu*, Mengen Cai, Xiaoyi Wang, Haotian Lv
 
-</div>
-</div>
-
-</div>
-</div>
-
-Cross-modal guided and refinement-enhanced Retinex network for robust low-light image enhancement (ICME Oral), 2025 [[PDF]](https://arxiv.org/abs/2506.22216)
+*Cross-modal guided and refinement-enhanced Retinex network for robust low-light image enhancement (ICME Oral), 2025* [[PDF]](https://arxiv.org/abs/2506.22216)
 
 Ming Zhao, Pingping Liu*, **Tongshun Zhang**, Zhe Zhang
 
-</div>
-</div>
-
-</div>
-</div>
-
-Multi-modal fusion guided retinex-based low-light image enhancement (Expert Systems with Applications IF=8.5), 2025 [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0957417425022729)
+*Multi-modal fusion guided retinex-based low-light image enhancement (Expert Systems with Applications IF=8.5), 2025* [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0957417425022729)
 
 Pingping Liu*, Xiaoyi Wang, **Tongshun Zhang**, Liyuan Yin
 
-</div>
-</div>
 
 
 # 🤝 Reviewer
@@ -131,5 +114,5 @@ Pingping Liu*, Xiaoyi Wang, **Tongshun Zhang**, Liyuan Yin
 # 🏆 Awards & Achievements
 - [04/2025] DMFourLLIE was selected for poster presentation at Valse 2025. [Link](https://valser.org/2025/#/poster)
 - [11/2024] DMFourLLIE was selected for the "Academic Research and Discussion (研学论道)" report at Jilin University.
-- [10/2024] Graduate Outstanding Scholarship (研究生优秀奖学金) [Link](http://ccst.jlu.edu.cn/info/1229/19909.htm)
-- [10/2024] Outstanding Graduate Students (优秀研究生) [Link](http://ccst.jlu.edu.cn/info/1229/19909.htm)
+- [10/2024] Graduate Outstanding Scholarship (研究生优秀奖学金)
+- [10/2024] Outstanding Graduate Students (优秀研究生)
