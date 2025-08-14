@@ -103,6 +103,11 @@ Ming Zhao, Pingping Liu*, **Tongshun Zhang**, Zhe Zhang
 
 Pingping Liu*, Xiaoyi Wang, **Tongshun Zhang**, Liyuan Yin
 
+---
+
+*Adaptive illumination and noise-free detail recovery via visual decomposition for low-light image enhancement (CVIU IF=4.8), 2025* 
+
+Pingping Liu*, Tianqi Li, Qiuzhan Zhou, **Tongshun Zhang**
 
 
 # 🤝 Reviewer
@@ -111,9 +116,10 @@ Pingping Liu*, Xiaoyi Wang, **Tongshun Zhang**, Liyuan Yin
 - IEEE Transactions on Multimedia (TMM)
 
 # 🩺 Patents
-- 无监督曝光矫正的曝光偏差增强网络模型构建方法、系统 （CN 120318103 B）2025 刘萍萍;尹莉媛;**张同顺**;王晓艺;周求湛
-- 一种低光图像增强方法、系统、设备以及存储介质 （CN 119090751 B）2025 刘萍萍;李天奇;周求湛;**张同顺**;卢禹冰
-- 一种低光图像增强方法及系统 （CN 119379551 B）2025 刘萍萍;**张同顺**;蔡蒙恩;张哲;王晓艺;周求湛
+- 无监督曝光矫正的曝光偏差增强网络模型构建方法、系统 （CN120318103B）2025 刘萍萍;尹莉媛;**张同顺**;王晓艺;周求湛
+- 一种低光图像增强方法、系统、设备以及存储介质 （CN119090751B）2025 刘萍萍;李天奇;周求湛;**张同顺**;卢禹冰
+- 一种低光图像增强方法及系统 （CN119379551B）2025 刘萍萍;**张同顺**;蔡蒙恩;张哲;王晓艺;周求湛
+- 一种低光图像增强方法、系统、设备以及存储介质 (CN120374475A) 2025 刘萍萍; 王晓艺; **张同顺**; 尹莉媛; 周求湛; 侯建华
 
 # 🏆 Awards & Achievements
 - [04/2025] DMFourLLIE was selected for poster presentation at Valse 2025. [Link](https://valser.org/2025/#/poster)
