@@ -18,11 +18,11 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 
 # 🚀 News
-- *07/2025*: &nbsp;🎉🎉 One paper about LLIE (Causal Wavelet) accepted to ICCV 2025.
-- *06/2025*: &nbsp;🎉🎉 One paper about LLIE (Multi-modal Fusion) accepted to ESWA.
-- *05/2025*: &nbsp;🎉🎉 One paper about LLIE (Retinex) accepted to INFFUS.
-- *03/2025*: &nbsp;🎉🎉 One paper about LLIE (Fourier & Reinforcement Learning) accepted to ICME 2025 (Oral).
-- *07/2024*: &nbsp;🎉🎉 One paper about LLIE (Fourier) accepted to ACM MM 2024 (Oral). 
+- *07/2025*: &nbsp; One paper about LLIE (Causal Wavelet) accepted to ICCV 2025.
+- *06/2025*: &nbsp; One paper about LLIE (Multi-modal Fusion) accepted to ESWA.
+- *05/2025*: &nbsp; One paper about LLIE (Retinex) accepted to INFFUS.
+- *03/2025*: &nbsp; One paper about LLIE (Fourier & Reinforcement Learning) accepted to ICME 2025 (Oral).
+- *07/2024*: &nbsp; One paper about LLIE (Fourier) accepted to ACM MM 2024 (Oral). 
 
 # 📚 Selected Publications <!-- {#publications} -->
 
