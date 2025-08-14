@@ -40,11 +40,10 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-* {
+body, html {
     font-family: "Times New Roman", Times, serif !important;
 }
-
-body {
+.content, p, div {
     font-family: "Times New Roman", Times, serif !important;
 }
 
