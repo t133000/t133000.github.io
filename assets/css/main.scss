@@ -40,6 +40,14 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+* {
+    font-family: "Times New Roman", Times, serif !important;
+}
+
+body {
+    font-family: "Times New Roman", Times, serif !important;
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
