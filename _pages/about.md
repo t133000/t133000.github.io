@@ -93,6 +93,12 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 ---
 
+*WEC-DG: Multi-Exposure Wavelet Correction Method Guided by Degradation Description (Arxiv), 2025* [[PDF]](https://arxiv.org/pdf/2508.09565)
+
+Ming Zhao, Pingping Liu*, **Tongshun Zhang**, Zhe Zhang
+
+---
+
 *ReF-LLE: Personalized Low-Light Enhancement via Reference-Guided Deep Reinforcement Learning (ICME Oral), 2025* [[PDF]](https://arxiv.org/abs/2506.22216)
 
 Ming Zhao, Pingping Liu*, **Tongshun Zhang**, Zhe Zhang
