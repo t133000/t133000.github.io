@@ -10,7 +10,7 @@ redirect_from:
 
 # 🎓 About Me
 
-I am currently pursuing a Ph.D. in the College of Computer Science and Technology at Jilin University (09/2024–present), supervised by Professor [Pingping Liu (刘萍萍)](http://ccst.jlu.edu.cn/info/1367/20528.htm). Previously, I obtained my M.S. degree from Lanzhou University of Technology (09/2020–03/2023) under Professor [Xiaolei Chen (陈晓雷)].  
+I am currently pursuing a Ph.D. in the College of Computer Science and Technology at Jilin University (09/2024–present), supervised by Professor [Pingping Liu (刘萍萍)](http://ccst.jlu.edu.cn/info/1367/20528.htm). Previously, I obtained my M.S. degree from Lanzhou University of Technology (09/2020–03/2023) under Professor Xiaolei Chen (陈晓雷).  
  
 My primary research focuses on **Small Target Detection**, particularly **Infrared Small Target Detection**. I also actively investigate related areas including **Low-rank sparse decomposition**, **State space model**, **Hyperbolic space**, and **Metric Learning**.  
  
