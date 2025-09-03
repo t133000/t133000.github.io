@@ -24,11 +24,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 
 
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/LSDSSMs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='images/LSDSSMs.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *LSDSSMs:Infrared Small Target Detection Network based on Low-Rank Sparse Decomposition State Space Models* [[PDF]](https://ieeexplore.ieee.org/document/11106451) [[Code]]
@@ -38,7 +34,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/DGGE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/DGGE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Feedback-Controlled Feature Decoupling for Infrared Small Targets: A Dual Geometry-Guided Experts Network* [[PDF]] [[Code]]
@@ -49,7 +45,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/PPSNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/PPSNet.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Breaking Spatial Rigidity: Poincare' Projected Double-Constraint for Infrared Small Target Detection* [[PDF]] [[Code]]
