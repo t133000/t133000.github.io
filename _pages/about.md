@@ -57,7 +57,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/HyperISTD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/HyperISTD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *HyperISTD: Angular-Consistent Modeling in Hyperbolic Space for Infrared Small Target Detection* [[PDF]] [[Code]]
