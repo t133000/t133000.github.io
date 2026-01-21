@@ -132,7 +132,7 @@ Pingping Liu*, Tianqi Li, Qiuzhan Zhou, **Tongshun Zhang** -->
 
 # 🩺 Patents
 - 红外小目标检测模型的构建方法及红外小目标检测方法 （CN119090751B）2025 刘萍萍;**卢禹冰**;李奥华;张凯;周求湛;薛晴伊
-- 一种低光图像增强方法、系统、设备以及存储介质 （CN119090751B）2025 刘萍萍;李天奇;周求湛;**张同顺**;卢禹冰
+- 一种低光图像增强方法、系统、设备以及存储介质 （CN119090751B）2025 刘萍萍;李天奇;周求湛;张同顺;**卢禹冰**
 
 <!-- # 🏆 Awards & Achievements
 - [04/2025] DMFourLLIE was selected for poster presentation at Valse 2025. [Link](https://valser.org/2025/#/poster)
