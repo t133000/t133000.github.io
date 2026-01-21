@@ -35,7 +35,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/DGGE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2026</div><img src='images/DGGE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Physics-Driven Feature Decoupling for Infrared Small Targets: A Dual Geometry-Guided Experts Network* [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705126000122) [[Code]]
