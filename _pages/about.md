@@ -19,7 +19,8 @@ For collaborations or inquiries, please feel free to contact me via email.
 
 # 🚀 News
 - *07/2025*: &nbsp; One paper about ISTD accepted to TGRS 2025.
-
+- *01/2026*: &nbsp; One paper about ISTD accepted to KBS 2026.
+- 
 # 📚 Selected Publications <!-- {#publications} -->
 
 
@@ -37,13 +38,37 @@ For collaborations or inquiries, please feel free to contact me via email.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/DGGE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Feedback-Controlled Feature Decoupling for Infrared Small Targets: A Dual Geometry-Guided Experts Network* [[PDF]] [[Code]]
+*Physics-Driven Feature Decoupling for Infrared Small Targets: A Dual Geometry-Guided Experts Network* [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705126000122) [[Code]]
 
 **Yubing Lu**, Pingping Liu, Tongshun Zhang, Aohua Li, Qiuzhan Zhou
 
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/SNN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*False Alarm Suppression in Infrared Small Target Detection with Spike-Gated Axial Serialization* [[PDF]] [[Code]]
+
+**Yubing Lu**, Pingping Liu, Tongshun Zhang, Aohua Li, Pengyu Xu, Qiuzhan Zhou
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/HyperISTD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*HyperISTD: Angular-Consistent Modeling in Hyperbolic Space for Infrared Small Target Detection* [[PDF]] [[Code]]
+
+**Yubing Lu**, Pingping Liu, Tongshun Zhang, Aohua Li, Pengyu Xu, Qiuzhan Zhou
+
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/PPSNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
