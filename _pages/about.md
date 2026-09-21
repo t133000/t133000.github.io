@@ -20,6 +20,7 @@ For collaborations or inquiries, please feel free to contact me via email.
 # 🚀 News
 - *07/2025*: &nbsp; One paper about ISTD accepted to TGRS 2025.
 - *01/2026*: &nbsp; One paper about ISTD accepted to KBS 2026.
+- *05/2026*: &nbsp; One paper about ISTD accepted to TCSVT 2026.
 - 
 # 📚 Selected Publications <!-- {#publications} -->
 
@@ -57,10 +58,35 @@ For collaborations or inquiries, please feel free to contact me via email.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/HyperISTD.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/HyperISTD.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *HyperISTD: Angular-Consistent Modeling in Hyperbolic Space for Infrared Small Target Detection* [[PDF]] [[Code]]
+
+**Yubing Lu**, Pingping Liu, Tongshun Zhang, Aohua Li, Pengyu Xu, Qiuzhan Zhou
+
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/LADTrack.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Learning and Adapting Target–Distractor Discrimination for Infrared Anti-UAV Tracking* [[PDF]] [[Code]]
+
+**Yubing Lu**, Pingping Liu, Tongshun Zhang, Aohua Li, Pengyu Xu, Qiuzhan Zhou
+
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/WAWTrack.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*When and Where to Re-detect:Quality-Guided Infrared Anti-UAV Tracking* [[PDF]] [[Code]]
 
 **Yubing Lu**, Pingping Liu, Tongshun Zhang, Aohua Li, Pengyu Xu, Qiuzhan Zhou
 
